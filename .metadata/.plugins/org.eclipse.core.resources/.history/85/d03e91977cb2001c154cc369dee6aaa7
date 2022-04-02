@@ -1,0 +1,8 @@
+package com.deepa;
+
+public class User {
+
+	public String name;
+	
+
+}
