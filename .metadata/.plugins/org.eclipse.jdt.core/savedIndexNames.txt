@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\deekumar\Desktop\Mosh design Patterns\.metadata\.plugins\org.eclipse.jdt.core
-2493339997.index
-89686527.index
